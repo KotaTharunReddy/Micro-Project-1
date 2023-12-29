@@ -6,7 +6,7 @@ header{
     margin: 0;
     display: flex;
     width: 100vw;
-    height: 592px;
+    height: 100vh;
     background-color: #ffcd9e
 }
 #upperLeft{
